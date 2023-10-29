@@ -40,7 +40,7 @@ All data is returned in JSON format.
   "employees": [
     {
       "name": "pratyush",
-      "email": "patyushkumar379@gmail.com",
+      "email": "pratyushkumar379@gmail.com",
       "position": "Developer"
     },
     {
