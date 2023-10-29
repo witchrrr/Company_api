@@ -35,17 +35,17 @@ All data is returned in JSON format.
 
 ```json
 {
-  "company_name": "ABC Inc.",
-  "location": "New York",
+  "company_name": "dell",
+  "location": "delhi",
   "employees": [
     {
-      "name": "John Doe",
-      "email": "john@example.com",
+      "name": "pratyush",
+      "email": "patyushkumar379@gmail.com",
       "position": "Developer"
     },
     {
-      "name": "Alice Smith",
-      "email": "alice@example.com",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
       "position": "Manager"
     }
   ]
